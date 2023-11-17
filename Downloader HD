@@ -4,6 +4,6 @@
 	"pushUpdate" : "off",
 
 	"newPackage" : "com.video.down",
-	"NetworkAds" : "applovin"
+	"NetworkAds" : "admob"
 
 }
